@@ -1,4 +1,4 @@
-# Onion Monero Blockchain Explorer
+# ~~Onion Monero~~Dtor Blockchain Explorer
 
 Currently available Monero blockchain explorers have several limitations which are of
 special importance to privacy-oriented users:
@@ -52,7 +52,7 @@ Alternative block explorers:
 - [https://monerovision.com](https://monerovision.com)
 
 
-## Onion Monero Blockchain Explorer features
+## ~~Onion Monero~~Dtor Blockchain Explorer features
 
 The key features of the Onion Monero Blockchain Explorer are:
 
